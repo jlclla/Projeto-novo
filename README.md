@@ -1,4 +1,4 @@
-# "Programa Cálculo de Média - Consumo de Energia Elétrica de um aparelho doméstico"
+# "Programa - Cálculo de Média - Consumo de Energia Elétrica de um aparelho doméstico"
 
 Este projeto em Python foi criado para Calcular o Consumo Médio que um aparelho doméstico consome com dados. Ciclo do Programa **Entrada - Processamento - Saída**
 
