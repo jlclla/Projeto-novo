@@ -1,4 +1,4 @@
-# Programa Cálculo Média de Consumo - Energia Elétrica de um Aparelho
+# Programa Cálculo Média de Consumo - Energia Elétrica de um Aparelho Doméstico
 # Autora: Juliana de Lima Custódio
 
 #Entrada de dados
